@@ -32,10 +32,6 @@ img:hover{
     height: auto;
 }
 
-image{
-    
-}
-
 button{
     background-color: hsl(0deg 0% 20%);
     border-radius: 5px;
@@ -64,6 +60,10 @@ button:hover{
     margin: 0%;
 }
 
+#nombre:hover{
+    color: rgb(32, 134, 185);
+    cursor: pointer;
+}
 #posicion{
     font-size: 10px;
     font-style: bold;
